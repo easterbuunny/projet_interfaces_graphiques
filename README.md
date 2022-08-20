@@ -13,18 +13,18 @@ Pour installer le projet sur votre machine il faut :
 
 ## Structure du projet
 
-![Diagramme](diagramme.png)
+![Diagramme](Image/diagramme.png)
 
 ## Capture d'écran du projet
 
 Nous avons développer plusieurs niveau de jeu, un coté éditable (gauche) et coté non éditable (droite).
-![image](niveau.png)
+![image](Image/niveau.png)
 
 Fonctionnalité Génerateur dans le mode Edition. Il permet de générer de nouvelle solution que la solution de base.
-![image](generateur.png)
+![image](Image/generateur.png)
 
 Une solution du jeu du niveau 2
-![image](niveau2.png)
+![image](Image/niveau2.png)
 
 ## Rapport 
 Pour connaitre plus de détaille du projet je vous laisse voir le rapport : [Rapport](rapport.md)
