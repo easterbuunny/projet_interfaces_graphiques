@@ -11,6 +11,13 @@ Pour installer le projet sur votre machine il faut :
 * Télécharger notre dépôt de projet
 * Lance le fichier `MainApp.java`
 
+OU
+
+Pour lancer le projet : 
+* mvn clean package
+* Vérifier si le fichier plomberie-gui-1.0.0.jar
+* Lancer le jar : java -jar target/plomberie-gui-1.0.0.jar
+
 ## Structure du projet
 
 ![Diagramme](Image/diagramme.png)
